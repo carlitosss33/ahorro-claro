@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://carlitosss33.github.io/ahorro-claro/sitemap.xml
